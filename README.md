@@ -8,5 +8,5 @@
 
 ## Два элемента Хиндмарш-Роуз, связанные с помощью с химических и электрических синаптических связей
 
-+[Временные диаграммы и трёхмерные фазовые портреты (без электрической связи)](https://github.com/SemenutaEgor/Extreme-events-in-phenomenological-neural-networks-with-different-types-of-connections/blob/master/coupled_bursting_neurons.ipynb)
-+[]()
++ [Временные диаграммы и трёхмерные фазовые портреты (без электрической связи)](https://github.com/SemenutaEgor/Extreme-events-in-phenomenological-neural-networks-with-different-types-of-connections/blob/master/coupled_bursting_neurons.ipynb)
++ []()
